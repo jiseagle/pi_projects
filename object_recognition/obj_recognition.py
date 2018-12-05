@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*-
 # Author:Norman Chen
-# Subject: Face Recognization
+# Subject: Object Recognization
 # Version:0.0.0
 # Date:2018-11-04
 # import necesarry packages
